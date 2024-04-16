@@ -4,7 +4,7 @@
 заданного списка
 """
 def change(): # новое изменение
-    pass
+    print("123")
 
 def permutation(s):
     if len(s) == 1:
