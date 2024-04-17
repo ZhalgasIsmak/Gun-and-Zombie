@@ -14,3 +14,4 @@ income = int(input("Введите свой доход: "))
 rate = float(input())
 
 print(nalog_ex(income,rate))
+#2q1231
