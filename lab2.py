@@ -14,4 +14,4 @@ income = int(input("Введите свой доход: "))
 rate = float(input())
 
 print(nalog_ex(income,rate))
-#privet
+#333
