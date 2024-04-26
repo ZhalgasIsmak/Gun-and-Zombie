@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Zombie and gun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|d:\\project\\zombie and gun\\assets\\scipts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|D:\\Project\\Zombie and gun\\assets\\scipts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|D:\\Project\\Zombie and gun\\assets\\scipts\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC9EEA-0083-8FC8-597E-92F6B46F2848}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\Player.cs",
+              "ToolTip": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scipts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:21:10.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\GameInput.cs",
+              "ToolTip": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scipts\\GameInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:54:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\PlayerVisual.cs",
+              "ToolTip": "D:\\Project\\Zombie and gun\\Assets\\Scipts\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\Scipts\\PlayerVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:22:04.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
