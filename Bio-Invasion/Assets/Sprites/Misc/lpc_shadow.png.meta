@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 04ceed283145349409f10419c01e4aa9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lpc_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846cfeea20fad645b451818e289541f
+      internalID: -686970355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1280
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c204454394434b4796f9aff81c5b0da
+      internalID: 1668974626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17388d2b7e769ba4b9b469b6bca6f3a9
+      internalID: -1808014658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1280
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb624a38015d3b4eab1c44eac1bacd9
+      internalID: 1727887423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1280
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5d2839df46e14aa7991fe8c6dcb0a
+      internalID: -764337132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1280
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e34ec9eced4f468d9d10eee9bffbb
+      internalID: -363013078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1280
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a51459361f9f04b8894bc82432a36c
+      internalID: -1401803800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1216
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a825be340c1c44833c4bbbb421912
+      internalID: -1305647183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1216
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ff4b8475af31478c965da27ea0765
+      internalID: 1025535102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5d38764b292849a28f1e79dd70a62
+      internalID: 434061689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81760a0553e2534da4c1f1d9b346137
+      internalID: 1072198967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1216
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177db83150661d4bb5e98ee43238deb
+      internalID: -426644251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1216
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bea8f5d17798e459d89006551ef1e0
+      internalID: 182241319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd9e9420b1c764196d78fd337c8603
+      internalID: -454444341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364c8897e23a8944a9a252b2ea511ea
+      internalID: -333156668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbcef778dbc7ab42adfdea3aa5fb314
+      internalID: 1061535770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f0d3cae2a5f54e9352bdfb2128fae
+      internalID: 1828189724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1152
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f7ac8aea9ab348b78eb02e84a31d0
+      internalID: 1615943499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1152
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c3cef12f2be8d43851f129334582b3
+      internalID: -476259505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1152
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165cb34b626af21498c2f54aaa4363c4
+      internalID: -431695708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f71ea9b26a5348a8c856da0c38cc1
+      internalID: -1333386857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b6a1e6d76dd924ea5c2cbdd18484dc
+      internalID: 341719079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd63b53b788d2e43a7b2b001f740b5c
+      internalID: 1942017012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1088
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7885329eaabae47a86edc6d8bf4c71
+      internalID: -954931661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4058eb7c86e8a4c859ff5167c7dd77
+      internalID: -2096419674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1088
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eac80221a25da46b1244a62f1fb70a
+      internalID: 1637537086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34170dafaec734fb64c8586959010c
+      internalID: 269656780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1088
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed1da662474db409f36abbb76b82d3
+      internalID: -2103876197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef82215dcde794881948f8e556f17b
+      internalID: 200356300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46fb5a8d33847341bda995f4bcf37aa
+      internalID: 1820768325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1024
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4355172d72f954fabb5a2290201eae
+      internalID: 1294817616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8389272fb243cd44890cc639c1dac73
+      internalID: 513048801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1024
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83b5a97ad711884cb682e7360e36b36
+      internalID: 587355299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1024
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d025b9b737bad449bf6dacd7a09c5c
+      internalID: -46312151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1024
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa7802db9bc574ca2d15e7dc935257
+      internalID: 898762537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69ab986e6ac7043ac6a1eaadac3879
+      internalID: 1432293617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 960
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4bfad3616bf540ab0f7a59168cd1c
+      internalID: 2030686321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d5b614f1452834f9821fac0d6f9a2f
+      internalID: -879622143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 960
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70347c4f950afcf419e9374149996167
+      internalID: -23973733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 960
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc48a4a886f508488accb47316001ad
+      internalID: -1038857293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 960
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283878f915d07ff4c915d7ae67ac94d7
+      internalID: -2138730303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a92b50d5ff0f94591972d251807a68
+      internalID: -1798491625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 960
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a908f3604e0ec4bbbc3de1ccd34a89
+      internalID: 1314670946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 960
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dcd43f543a36d4099cce8fb8535d81
+      internalID: 1471076578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7429ec7df92444ea4e7a07dd9e806c
+      internalID: -1354371564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f0615c657f3c408e4de816c8d091d
+      internalID: -1045936700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 896
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350e1c127a4f6d4db6fa00eab252d6b
+      internalID: 392866851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 897
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab8c2fe3b12a74798cd147aababc30
+      internalID: 319465650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 897
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b87c45b838a2a489859d89fe0ef24e
+      internalID: 1448683440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 896
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d67c5c17f161469b3bc8086c4dc7c
+      internalID: -1177459658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 897
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96ab0d2eb82cd4ab8092c3168776ef
+      internalID: 768997188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 897
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6244aaa9987cb4a4f9b586b9e987565a
+      internalID: 2059231818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5992e03f802ce43b9428c570aaf7ca
+      internalID: 14919833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 832
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce728be80e8e43945a0f7cfc196c6ebc
+      internalID: -1840246748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d673078a68ad96a4f9ec69644653de03
+      internalID: 23057096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 832
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3690f7453bfeb44a9b9e01b2bee2a0
+      internalID: 1731408511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 832
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a8b32aaa1a0b4f947d413651613d0
+      internalID: -1659316778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926b2711ef8b104db924ed0bc233d25
+      internalID: -671523161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3adca8ccf949444abacfb70fe82dddf
+      internalID: 110087015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 832
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91ee8e57e7b7b4ea6c1aa743341836
+      internalID: -647248197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2fa221e106ed4c958198cfd271917
+      internalID: -1436131476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710819363a2cbf34fada50caa62035e1
+      internalID: -2012480783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f53ffce0b87c147b1d2fcdc6d35b05
+      internalID: -694429585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 768
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783a814e3861b1c4fb16412977a36999
+      internalID: 407418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d3507a766e7d49842d1e3c1689a4e
+      internalID: 2052377619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b0f583bf0b7549b802d8e03277d02
+      internalID: 1831569156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b8a269f0f71d4abb679dfc06843b6
+      internalID: 1407713873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bdd819a8f4982489fc77822ecf0fdf
+      internalID: -1255798844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 768
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c75d4c3fbadf46bc0d5d8b5b2378b
+      internalID: -343575514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 704
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871fd43aa95df2459b588baa6225f29
+      internalID: 750332262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5832b08edd45d6469f189bce2d07582
+      internalID: 629261186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03eaa2b71d861d4797bbe0c9ede04d1
+      internalID: 2074562782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 704
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87dfaa99cfff04479a97f330e0a7180
+      internalID: -948319506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 704
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a4fefb4c9f6641bef614307fd0330
+      internalID: -1280721024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 704
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a319de607fae48bf228e612b3b925
+      internalID: 746716851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 704
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a1fda2f86f4449ba63af3ffc15d6b
+      internalID: 2011899083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75773cda839ff43826bbff03b3767c
+      internalID: -1996912177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 704
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33fa26ba4123741befc8c75284ef15
+      internalID: -1222029176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c00a5b7dd0864397247dfe19a1109
+      internalID: -2065125444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063b3a29769fda49ad36e4536eeda00
+      internalID: -1903274233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b0d8ebce2c2649be745539b60d301
+      internalID: 745475199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08bbf1cbeee30b4babb5e763480780b
+      internalID: -2132967298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af69a307c1a69418e2b65fb4312bd6
+      internalID: 1040090138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf5d431af61ae34792e3825bcfa35a7
+      internalID: -1744732977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb79b45c0a83d244b18b7fd63c64063
+      internalID: 1513321180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 640
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94bf6656807b9945ac247e3def2ba7b
+      internalID: 587039283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669899310ca42d47b58fc797da1478e
+      internalID: -1771145561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455294d3e00a0104fb1f1c0b48d508e3
+      internalID: 2009601117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1bb335732a8ee4a9858b7ad814d1e0
+      internalID: -1223619317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7b2fd57bc2ad4ea811bbc1569b7f0
+      internalID: -1896004311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28845808fba1d6a4c947110a5bbed01d
+      internalID: 318431212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 576
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b171715862730d46b1a678a96166ee1
+      internalID: -1197964460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 576
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506384a2a49c84439aa0ad207e1bec3
+      internalID: -1577572238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3bf162bbf4e4e4ab4eff76372a72da
+      internalID: -764018565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7019c71b8bd75541ab62e8757698489
+      internalID: 487123600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9344c4967dccf4b8ecadadd686ee68
+      internalID: -1428442693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 512
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d3cd41fd3c2724097e095b0c2039fa
+      internalID: 40334145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 512
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e297051c27b0740b7eb77af58ea900
+      internalID: 1421166677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 512
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaebdd6a9dd796a48b98c11a09b603fe
+      internalID: -1950822837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a23c7bd055434a8a4f97df5e3984c
+      internalID: 1988243671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45539fed122a60d449708b992108b090
+      internalID: 1076279331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90992c81abf1f4994e8ea9d69d8d53
+      internalID: 623923045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83cc3fbe0dc2d48b53fbfcb4cb40db
+      internalID: -1949425495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07680a61d3055449a1affcf3ccbf3a7
+      internalID: 1365315141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ab0190aabde64e897fed7cd27b390
+      internalID: -1643693149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 448
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d1328f3dabd548a8bbfc6b7bfc499
+      internalID: 1346162131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 448
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4633a980ab2847afe38bd67745258
+      internalID: -1143179570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 448
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ebd75106da434082611159dcee390
+      internalID: -148014807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55faab5a7e70be448d492da5ea814a0
+      internalID: 518329975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e021300ce3f14385d9001effc32bc
+      internalID: 1367264850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e51ac8875efb4c957935de7b793f9
+      internalID: 2128335996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c56e4728f61a46b31cfb1a1b86807
+      internalID: -1652521087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d0c02d62a81e4e809da1e00d68d63
+      internalID: 1608235210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46955c72c7ce6884ba82820333e0c7c1
+      internalID: -1381220556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330a208aee3d204daa0546e07d3fc58
+      internalID: 661864386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466dae78f8335f049877c8cc10592474
+      internalID: 981096927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f159931a32771f645a89696fbf44c611
+      internalID: 1819532970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 320
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a9ab42f3799794582243c8d9956c6b
+      internalID: -1602850621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 320
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a42eea2461bc44843b4178c5f9bbf
+      internalID: 87931640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 320
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf6d40035cd7e46ad209b6b11b4015
+      internalID: -54480070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c34cf914e5ec44b7e243805128d06
+      internalID: 941524317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f127f24475ed641a1dc98f061fabca
+      internalID: -1518487627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 256
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ffabf6123ecc48abb0f26a96d18a7
+      internalID: -480597619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb311b0211ee7246b5b2d925cf9b258
+      internalID: -1702764967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e21d2012654b542a636dce8c415d7c
+      internalID: -767170458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16907fa78981e84a8565b9add3fe9c2
+      internalID: 1859601771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5c6aa028ad49498d9b82e5188ba6e
+      internalID: 1591266269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd4d120020de0b4ea23cca4bc7a2496
+      internalID: 66040192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f589725b8a6c0c046bf991aa2c0edb99
+      internalID: 238334391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80944721861d5f4b86220a973d8f77b
+      internalID: 300382845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 256
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a59e2da576c3b4ba63ac587e5c6a32
+      internalID: -170112988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 256
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae145a130fa88fa47803f6009836d2c9
+      internalID: 628932224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 256
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc9435390601b409c12a8c116975a8
+      internalID: 465332180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8603b5884027f84b8c5b94857602644
+      internalID: 2088652891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaafa4c41ef6b046b6590961e0ee430
+      internalID: -1681605854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbc9fd72754568479708fe9f6e67d7c
+      internalID: 340765521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04620d7d5a308804d80548d4c766fdb1
+      internalID: -159275584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63913e1b2776d8742a295293090b9b12
+      internalID: -1575546250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd6d928d0db96d40920345760463b30
+      internalID: -1390989162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce004cfc986b74194114e5e8c2fa06
+      internalID: 1084849380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_140
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad925713f1fb976409375f4094a0af89
+      internalID: -361260116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_141
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 192
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c594f462897eb40a368dc1e948721a
+      internalID: -31108726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 192
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850ffc28b314b846bbd4def71c6438e
+      internalID: -337111145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_143
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 192
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ac9a3f29378748b158aee2f262bc4
+      internalID: 1252688832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43c7dcd78c157408ce87481eba18ec
+      internalID: 860735545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_145
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 192
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88184bde4642d4e4eb882321cb4ae075
+      internalID: -27005050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4366c3baacf7478d43436d7a3ae6e
+      internalID: -2147435770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ff3ec75ca5a547b4b558f301487fc
+      internalID: 1754016612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f5a9fe85901640b2a0f69b306d54d
+      internalID: -1256546335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d22a1a4121bd4995dee4bbd1c4607
+      internalID: 921364063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10f9690b0cbf048ad0434f0de204fa
+      internalID: -1359004669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444259aef06ab364ab1a851a15058780
+      internalID: -1168981104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfad538e298ef64197d524ff873c5fc
+      internalID: -155169112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5c5a9ba956854fa67f1f1db248df4
+      internalID: -1228044037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac682b9effd86b41ae8d089ff54637b
+      internalID: -369445398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97e6861bb2d804babf62b3ed577ed3
+      internalID: 1535941278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f2eb11843cdf42b3909bf688ae447
+      internalID: 23491589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 128
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2897439c5a054d873e6da650b0e4a
+      internalID: 1999156939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72f6dec368ed14abd0b163d0bd87a1
+      internalID: -1293131054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a91f2f2809f784dbfc27fb29b4c3c9
+      internalID: 1059936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553045d33ea811645a5a7551a64c394e
+      internalID: 1277342857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfc711edede8e4184e62e6a75c8f2a
+      internalID: -1834486731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d430fc855a25c4f93b787d4530e588
+      internalID: 1907836151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9acf27f6ff6e40a8a7cf7e0bbe0ee
+      internalID: 2113489856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42ab84b96849b4d90d0a153f41c181
+      internalID: 1704059031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd53b34cdb5b8849a90d41b75e537d6
+      internalID: 995600046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_166
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed80c18094b75944bdaef8b39cbcdaa
+      internalID: 1553415463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_167
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 64
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ebe9f25ce40314bbf5afeb65a84e07
+      internalID: 760343584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5224b5738933b4089fd9aaf454f772
+      internalID: -1621760135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36ff5f4ff4a9a40991996c99fa7614
+      internalID: 160963284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 64
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a48fe98d8a0254caf48a7b9e241948
+      internalID: -629700778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b6d35dd2782740bc0b11b16152b33
+      internalID: 1065268842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f62cbdc0af7724288f38863d58960a
+      internalID: 1338966559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea259d10ffb9dd74980dcf205c2d631b
+      internalID: 69077161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3da2c511b312644bc7468e856f4797
+      internalID: -702276202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84251f68527a74e82dd2d4eae9d5c0
+      internalID: -341003662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a1e5b11dbf6141bccfdf878217568
+      internalID: 1875793879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_shadow_177
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9936d800cb21d499fd33ea46b6ad4e
+      internalID: 550111805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lpc_shadow_0: -686970355
+      lpc_shadow_1: 1668974626
+      lpc_shadow_10: 1072198967
+      lpc_shadow_100: 1076279331
+      lpc_shadow_101: 623923045
+      lpc_shadow_102: -1949425495
+      lpc_shadow_103: 1365315141
+      lpc_shadow_104: -1643693149
+      lpc_shadow_105: 1346162131
+      lpc_shadow_106: -1143179570
+      lpc_shadow_107: -148014807
+      lpc_shadow_108: 518329975
+      lpc_shadow_109: 1367264850
+      lpc_shadow_11: -426644251
+      lpc_shadow_110: 2128335996
+      lpc_shadow_111: -1652521087
+      lpc_shadow_112: 1608235210
+      lpc_shadow_113: -1381220556
+      lpc_shadow_114: 661864386
+      lpc_shadow_115: 981096927
+      lpc_shadow_116: 1819532970
+      lpc_shadow_117: -1602850621
+      lpc_shadow_118: 87931640
+      lpc_shadow_119: -54480070
+      lpc_shadow_12: 182241319
+      lpc_shadow_120: 941524317
+      lpc_shadow_121: -1518487627
+      lpc_shadow_122: -480597619
+      lpc_shadow_123: -1702764967
+      lpc_shadow_124: -767170458
+      lpc_shadow_125: 1859601771
+      lpc_shadow_126: 1591266269
+      lpc_shadow_127: 66040192
+      lpc_shadow_128: 238334391
+      lpc_shadow_129: 300382845
+      lpc_shadow_13: -454444341
+      lpc_shadow_130: -170112988
+      lpc_shadow_131: 628932224
+      lpc_shadow_132: 465332180
+      lpc_shadow_133: 2088652891
+      lpc_shadow_134: -1681605854
+      lpc_shadow_135: 340765521
+      lpc_shadow_136: -159275584
+      lpc_shadow_137: -1575546250
+      lpc_shadow_138: -1390989162
+      lpc_shadow_139: 1084849380
+      lpc_shadow_14: -333156668
+      lpc_shadow_140: -361260116
+      lpc_shadow_141: -31108726
+      lpc_shadow_142: -337111145
+      lpc_shadow_143: 1252688832
+      lpc_shadow_144: 860735545
+      lpc_shadow_145: -27005050
+      lpc_shadow_146: -2147435770
+      lpc_shadow_147: 1754016612
+      lpc_shadow_148: -1256546335
+      lpc_shadow_149: 921364063
+      lpc_shadow_15: 1061535770
+      lpc_shadow_150: -1359004669
+      lpc_shadow_151: -1168981104
+      lpc_shadow_152: -155169112
+      lpc_shadow_153: -1228044037
+      lpc_shadow_154: -369445398
+      lpc_shadow_155: 1535941278
+      lpc_shadow_156: 23491589
+      lpc_shadow_157: 1999156939
+      lpc_shadow_158: -1293131054
+      lpc_shadow_159: 1059936500
+      lpc_shadow_16: 1828189724
+      lpc_shadow_160: 1277342857
+      lpc_shadow_161: -1834486731
+      lpc_shadow_162: 1907836151
+      lpc_shadow_163: 2113489856
+      lpc_shadow_164: 1704059031
+      lpc_shadow_165: 995600046
+      lpc_shadow_166: 1553415463
+      lpc_shadow_167: 760343584
+      lpc_shadow_168: -1621760135
+      lpc_shadow_169: 160963284
+      lpc_shadow_17: 1615943499
+      lpc_shadow_170: -629700778
+      lpc_shadow_171: 1065268842
+      lpc_shadow_172: 1338966559
+      lpc_shadow_173: 69077161
+      lpc_shadow_174: -702276202
+      lpc_shadow_175: -341003662
+      lpc_shadow_176: 1875793879
+      lpc_shadow_177: 550111805
+      lpc_shadow_18: -476259505
+      lpc_shadow_19: -431695708
+      lpc_shadow_2: -1808014658
+      lpc_shadow_20: -1333386857
+      lpc_shadow_21: 341719079
+      lpc_shadow_22: 1942017012
+      lpc_shadow_23: -954931661
+      lpc_shadow_24: -2096419674
+      lpc_shadow_25: 1637537086
+      lpc_shadow_26: 269656780
+      lpc_shadow_27: -2103876197
+      lpc_shadow_28: 200356300
+      lpc_shadow_29: 1820768325
+      lpc_shadow_3: 1727887423
+      lpc_shadow_30: 1294817616
+      lpc_shadow_31: 513048801
+      lpc_shadow_32: 587355299
+      lpc_shadow_33: -46312151
+      lpc_shadow_34: 898762537
+      lpc_shadow_35: 1432293617
+      lpc_shadow_36: 2030686321
+      lpc_shadow_37: -879622143
+      lpc_shadow_38: -23973733
+      lpc_shadow_39: -1038857293
+      lpc_shadow_4: -764337132
+      lpc_shadow_40: -2138730303
+      lpc_shadow_41: -1798491625
+      lpc_shadow_42: 1314670946
+      lpc_shadow_43: 1471076578
+      lpc_shadow_44: -1354371564
+      lpc_shadow_45: -1045936700
+      lpc_shadow_46: 392866851
+      lpc_shadow_47: 319465650
+      lpc_shadow_48: 1448683440
+      lpc_shadow_49: -1177459658
+      lpc_shadow_5: -363013078
+      lpc_shadow_50: 768997188
+      lpc_shadow_51: 2059231818
+      lpc_shadow_52: 14919833
+      lpc_shadow_53: -1840246748
+      lpc_shadow_54: 23057096
+      lpc_shadow_55: 1731408511
+      lpc_shadow_56: -1659316778
+      lpc_shadow_57: -671523161
+      lpc_shadow_58: 110087015
+      lpc_shadow_59: -647248197
+      lpc_shadow_6: -1401803800
+      lpc_shadow_60: -1436131476
+      lpc_shadow_61: -2012480783
+      lpc_shadow_62: -694429585
+      lpc_shadow_63: 407418220
+      lpc_shadow_64: 2052377619
+      lpc_shadow_65: 1831569156
+      lpc_shadow_66: 1407713873
+      lpc_shadow_67: -1255798844
+      lpc_shadow_68: -343575514
+      lpc_shadow_69: 750332262
+      lpc_shadow_7: -1305647183
+      lpc_shadow_70: 629261186
+      lpc_shadow_71: 2074562782
+      lpc_shadow_72: -948319506
+      lpc_shadow_73: -1280721024
+      lpc_shadow_74: 746716851
+      lpc_shadow_75: 2011899083
+      lpc_shadow_76: -1996912177
+      lpc_shadow_77: -1222029176
+      lpc_shadow_78: -2065125444
+      lpc_shadow_79: -1903274233
+      lpc_shadow_8: 1025535102
+      lpc_shadow_80: 745475199
+      lpc_shadow_81: -2132967298
+      lpc_shadow_82: 1040090138
+      lpc_shadow_83: -1744732977
+      lpc_shadow_84: 1513321180
+      lpc_shadow_85: 587039283
+      lpc_shadow_86: -1771145561
+      lpc_shadow_87: 2009601117
+      lpc_shadow_88: -1223619317
+      lpc_shadow_89: -1896004311
+      lpc_shadow_9: 434061689
+      lpc_shadow_90: 318431212
+      lpc_shadow_91: -1197964460
+      lpc_shadow_92: -1577572238
+      lpc_shadow_93: -764018565
+      lpc_shadow_94: 487123600
+      lpc_shadow_95: -1428442693
+      lpc_shadow_96: 40334145
+      lpc_shadow_97: 1421166677
+      lpc_shadow_98: -1950822837
+      lpc_shadow_99: 1988243671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
