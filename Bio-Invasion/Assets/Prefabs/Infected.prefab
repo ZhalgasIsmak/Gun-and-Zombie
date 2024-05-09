@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4671976943817279293}
   - component: {fileID: 8286624973216422391}
+  - component: {fileID: 5733080570908276218}
   m_Layer: 0
   m_Name: InfectedVisual
   m_TagString: Untagged
@@ -85,6 +86,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &5733080570908276218
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4393014085963216041}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5aceada5b3416ad4c9254303de5fd356, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5352344392253885447
 GameObject:
   m_ObjectHideFlags: 0
@@ -181,6 +203,7 @@ GameObject:
   - component: {fileID: 7261194627948592233}
   - component: {fileID: 4344125303826003942}
   - component: {fileID: 7059655862752548769}
+  - component: {fileID: 7039335805229591596}
   m_Layer: 0
   m_Name: Infected
   m_TagString: Untagged
@@ -241,7 +264,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.33
-  m_Speed: 3.5
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -288,3 +311,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.064236104, y: 0.21906248}
   m_Size: {x: 0.5065304, y: 0.91363746}
   m_Direction: 0
+--- !u!114 &7039335805229591596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8579256043599009979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1928d573fa6ab24fa5bea1aa9f28ddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingstate: 1
+  roamingDistanceMax: 7
+  roamingDistanceMin: 3
+  roamingTimerMax: 2

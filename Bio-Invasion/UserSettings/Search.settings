@@ -11,6 +11,9 @@ scopes = {
 	"last_search.310DEAF1" = "package mana"
 	"OpenInspectorPreview.310DEAF1" = "0"
 	"currentGroup.310DEAF1" = "all"
+	"last_search.110DEAF1" = "pkg:"
+	"OpenInspectorPreview.110DEAF1" = "0"
+	"currentGroup.110DEAF1" = "scene"
 }
 providers = {
 	packages = {
@@ -62,6 +65,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"pkg:"
 ]
 searchItemFavorites = [
 ]
@@ -72,7 +76,7 @@ expandedQueries = [
 ]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
-helperWidgetCurrentArea = "all"
+helperWidgetCurrentArea = "api:"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
